@@ -4,4 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/amuncja.png" alt="TryHackMe">
+![Desktop View](https://tryhackme-badges.s3.amazonaws.com/amuncja.png){: .left}
+_TryHackMe badge_
